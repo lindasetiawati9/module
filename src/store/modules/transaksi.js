@@ -4,19 +4,19 @@ const transaksi = {
         listTransaksi: [
             {
                  id: 'TRX1P1',
-                 donatur: 'Anugrah Sandi',
+                 donatur: 'Ajeng Nikita',
                  bantuan: 'Gempa Lombok',
                  jumlah: 100000 
             },
             { 
                 id: 'TRX1P2', 
-                donatur: 'Dharma', 
+                donatur: 'Sena Julianti', 
                 bantuan: 'Banjir Bandang', 
                 jumlah: 250000 
             },
             { 
                 id: 'TRX1P3', 
-                donatur: 'Asis Ramadhan', 
+                donatur: 'Linda Setiawati', 
                 bantuan: 'Beasiswa Pendidikan', 
                 jumlah: 3000000 
             }

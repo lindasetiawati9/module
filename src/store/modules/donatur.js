@@ -2,10 +2,10 @@ const donatur = {
     namespaced: true,
     state: {
         listDonatur: [
-            { name: 'Riski Amelia' },
-            { name: 'Ima Sumadir' },
-            { name: 'Apri Yunita' },
-            { name: 'Tuti Winarti' }
+            { name: 'Naila Nawar' },
+            { name: 'Intan Zahra' },
+            { name: 'Linda Nurhasanah' },
+            { name: 'Shadrina Nurazizah' }
         ]
     },
     mutations: {
